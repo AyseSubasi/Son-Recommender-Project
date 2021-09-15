@@ -1,6 +1,6 @@
 # Song-Recommender-Project
 
-by Ayse Subasi
+by Ayse Subasi & Darinka Markovic
 
 
 
